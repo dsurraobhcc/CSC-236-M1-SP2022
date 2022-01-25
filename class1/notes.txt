@@ -1,0 +1,21 @@
+Databases: store information in an organized way.
+
+Examples:
+Files
+Spreadsheets
+CSV files
+
+Relational databases: 
+- more organized
+- stricter error checking on data
+- easier access to multiple users
+- increased security
+- having all data in one place
+
+tables
+	rows
+		columns
+			defined by data types
+
+column/field
+
