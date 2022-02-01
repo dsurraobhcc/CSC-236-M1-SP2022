@@ -1,0 +1,8 @@
+overview of database systems
+
+SELECT statements
+- filtering on the WHERE clause
+
+CREATE statement to define a table
+
+INSERT statement to insert data into the table
