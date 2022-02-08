@@ -6,4 +6,9 @@ update (Update)
 delete (Delete)
 
 CRUD
+normalization
+JOINS
+column/table aliases
+
+
 
