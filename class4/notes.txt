@@ -1,0 +1,9 @@
+foreign keys 
+
+ON DELETE ...
+
+one table
+> split into multiple tables
+>> explicitly defined relationships 
+
+normalization
