@@ -29,3 +29,5 @@ values (@ingredient_id,
     @ingredient_class_id, 
     @measure_amount_id
 );
+
+
