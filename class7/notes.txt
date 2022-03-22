@@ -7,3 +7,4 @@ project proposal: look at feedback
  - questions on different scenarios
  - proposed design changes
 
+correlated subqueries
