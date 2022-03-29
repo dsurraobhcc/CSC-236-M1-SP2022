@@ -1,0 +1,32 @@
+DATE
+
+TIME
+
+DATETIME
+TIMESTAMP
+
+YEAR
+
+YYYY-MM-DD hh:mm:ss[.fraction]
+
+timestamp
+2021-03-28 19:49:00 (EST) --> 2021-03-28 23:49:00 (UTC)
+
+server time set to Boston: 2021-03-28 19:49:00
+server time set to Chicago: 2021-03-28 18:49:00 
+
+
+datetime
+2021-03-28 19:49:00 (EST) --> 2021-03-28 19:49:00
+
+server time set to Boston: 2021-03-28 19:49:00
+server time set to Chicago: 2021-03-28 19:49:00 (time zone information is lost...)
+
+
+
+
+
+
+
+
+
