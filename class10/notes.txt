@@ -1,0 +1,10 @@
+mysql command line client
+mysqldump command line backup program
+import database created by mysqldump
+
+WINDOWS users:
+- add mysql bin directory to system path on your machine
+
+setting sql_mode
+configuration settings for MySQL server
+
