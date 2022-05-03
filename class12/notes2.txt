@@ -1,0 +1,8 @@
+Index preformance:
+
+B-Tree	: O(log n)
+Hash	: O(1)
+
+Big-O notation: google this
+
+

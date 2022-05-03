@@ -1,0 +1,26 @@
+Class 11 
+ALTER statement
+Assignment on ALTER statement
+
+Class 12 (5/2)
+Indexes, views
+
+Class 13 (5/9)
+Transactions, database users and permissions
+Final exam
+
+Class 14 (5/16)
+Deploying a MySQL database to the cloud (AWS)
+Final project due 5/16
+
+
+Project presentations
+*********************
+
+Project questions:
+- What indexes are useful on your tables?
+- What are some useful views for your database?
+
+
+
+
