@@ -1,0 +1,10 @@
+Functions: do not change data.
+fetch data. do calculations.
+
+Stored Procedures: update data.
+
+Triggers: update data. based on events.
+e.g., on INSERT into a table, do something.
+
+
+
